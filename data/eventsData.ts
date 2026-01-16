@@ -1,5 +1,6 @@
 import { TEvent } from "@/types/event";
 
+
 export const eventsData: TEvent[] = [
   {
     id: "1",
